@@ -22,5 +22,8 @@ HTML5: Markup language used for structuring the web page.
 CSS3: Stylesheet language used for styling the UI components.
 JavaScript: Programming language used for interactivity.
 
+Link to preview
+https://netflix-ui-clone-henna.vercel.app/
+
 Acknowledgments
 Inspired by the Netflix user interface.
